@@ -1,9 +1,10 @@
+import SnackTable from "./SnackTable";
 
 
 function App() {
   return (
 	  <div className="App">
-		  Hello
+		<SnackTable/>
     </div>
   );
 }
